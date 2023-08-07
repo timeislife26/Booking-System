@@ -1,7 +1,5 @@
 #Author: Jason Fleming
-#Student number: R00221324
 
-# I kept my name in the main function as I was unsure if we were supposed to leave it in or not.
 def main(a_type_list, a_price_list,a_booking_num_list, e_type_list, e_booking_list, passed_startup = False, another_booking = False):
     if not passed_startup:
         student_name = "Jason Fleming"
